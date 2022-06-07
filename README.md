@@ -2,6 +2,7 @@
 To test an Api u need to follow next 3 steps:
 + Download zip and open solution
 + Set as Startup project TaskTracker.WebApi
++ Build solution
 + Update-Database on Package Manager Console window with an option Presentation\TaskTracker.WebApi
 ![Screenshot_18](https://user-images.githubusercontent.com/55952268/172254606-05b5052f-47f3-4002-865c-9600ed27f1e8.png)
 ![Screenshot_19](https://user-images.githubusercontent.com/55952268/172254623-c0ee05ca-c8ea-4f0b-8fd2-5d426ec9dc6e.png)
