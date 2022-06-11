@@ -1,4 +1,12 @@
 # TaskTracker
+## Architecture:
+![Screenshot_22](https://user-images.githubusercontent.com/55952268/173185584-e8cc06b8-1645-45e4-9258-0460137a5f26.png)
+Used libraries and tehcnologies:
++ Asp.net core
++ Entity Framework
++ AutoMapper
++ MeadiatR
+ 
 To test an Api u need to follow next 3 steps:
 + Download zip and open solution
 + Set as Startup project TaskTracker.WebApi
