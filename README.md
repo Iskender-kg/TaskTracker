@@ -7,7 +7,7 @@ Used libraries and tehcnologies:
 + AutoMapper
 + MeadiatR
  
-To test an Api u need to follow next 3 steps:
+To test an Api u need to follow next steps:
 + Download zip and open solution
 + Set as Startup project TaskTracker.WebApi
 + Build solution
